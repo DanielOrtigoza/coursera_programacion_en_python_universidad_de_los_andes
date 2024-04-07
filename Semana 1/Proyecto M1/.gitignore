@@ -1,0 +1,9 @@
+
+
+
+# ignorar carpetas
+__pycache__/
+
+
+# ignorar archivos individuales
+pruebas.py
